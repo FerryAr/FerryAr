@@ -1,16 +1,18 @@
-### Hi there 👋
+Junior Software Engineer, Linux and Android Enthusiast.
 
-<!--
-**FerryAr/FerryAr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Overall Github Performance
 
-Here are some ideas to get you started:
+![github stats](https://github-readme-stats.vercel.app/api?username=FerryAr&show_icons=true&theme=nord)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Github Most Used Language
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerryAr&theme=nord">
+
+## Current Activity
+
+- I'm currently learning TypeScript, Python, Java and PHP.
+- I'm currently developing <a href="https://github.com/FerryAr/lhroot">lhroot</a>.
+- I'm currently studying at Vocational High School.
+- Fun Fact : I'm mostly writing code in a handphone, cause I don't have any personal computer yet.
+
+
