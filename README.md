@@ -2,7 +2,7 @@ Junior Software Engineer, Linux and Android Enthusiast.
 
 ## Overall Github Performance
 
-![github stats](https://github-readme-stats.vercel.app/api?username=FerryAr&show_icons=true&theme=nord)
+![github stats](https://github-readme-stats.vercel.app/api?username=FerryAr&show_icons=true&theme=nord&count_private=true)
 
 ## My Github Most Used Language
 
@@ -11,6 +11,5 @@ Junior Software Engineer, Linux and Android Enthusiast.
 ## Current Activity
 
 - I'm currently learning TypeScript, Flutter, Python, Kotlin and PHP.
-- I'm currently studying at Vocational High School.
 
 
