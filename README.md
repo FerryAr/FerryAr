@@ -6,7 +6,7 @@ Junior Software Engineer, Linux and Android Enthusiast.
 
 ## My Github Most Used Language
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerryAr&theme=nord">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerryAr&theme=nord&hide=scss">
 
 ## Current Activity
 
