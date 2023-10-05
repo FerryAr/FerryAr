@@ -5,7 +5,9 @@ Junior Software Engineer, Linux and Android Enthusiast.
 ## Overall Github Performance
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=FerryAr&show_icons=true&theme=nord&count_private=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FerryAr&theme=nordfox&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FerryAr&theme=nordfox&date_format=j%20M%5B%20Y%5D)
 
 ## My Github Most Used Language
 
